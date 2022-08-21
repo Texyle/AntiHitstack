@@ -1,0 +1,5 @@
+# How many players can damage an entity at the same time
+max-damagers: 2
+
+# Cooldown after a player has damaged an entity (in seconds)
+damage-cooldown: 3
